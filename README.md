@@ -56,5 +56,5 @@
   <a href="#" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-in%C3%A1cio-53a3ab1a2/" alt="LinkedIn"/></a>
   <a href="#" title="WhatsApp">
-  <img src="https://wa.me/5513997866327?text=Olá,%20gostaria%20de conversar!" alt="WhatsApp"/></a>
+  <img src="https://img.shields.io/badge/-Whatsapp-25D366?style=flat-square&logo=whatsapp&logoColor=white&link=https://wa.me/5513997866327?text=Olá,%20gostaria%20de conversar!" alt="WhatsApp"/></a>
 </p>
