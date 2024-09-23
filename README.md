@@ -46,23 +46,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket&logoColor=0052CC)
 
-### Experiência de trabalho
-
-Na visão geral abaixo você encontrará minha experiência de trabalho mais recente:
-
-<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/v2/D4D0BAQGiTXOJKLd3kA/company-logo_200_200/company-logo_200_200/0/1680639250432?e=1735171200&v=beta&t=VY-pBvOpVWzwzv3NROHpgQhOI_CnwSmxMc7gF2_tldw"/>
-
-**Front-end Developer** \
-**ModalGR** • Full-time \
-Linguagens & Tecnologias: `Electron`, `Typescript`, `Javascript`, `Tailwindcss`, `React`, `React Native`, `Angular`, `Material Design`, `Styled Components`, `Redux`, `Azure`.
-
-<img align="left" height="94px" width="94px" alt="Warpnet" src="https://media.licdn.com/dms/image/v2/C4D0BAQEr8a0SUkXGcw/company-logo_200_200/company-logo_200_200/0/1631374583924/spacemoon_logo?e=1735171200&v=beta&t=jNtrL5x_s41B1gVHrqGfu4Zp3HFhhpI4BkbTVPj8jAE"/>
-
-**Front-end Developer** \
-**Spacemoon** • Full-time \
-Linguagens & Tecnologias: `Vuejs`, `Firebase`, `React Native`, `Flutter`, `Expo`.\
-<br />
-
 <p align="left">
   💌 Entre em contato comigo: ⤵️
 </p>
